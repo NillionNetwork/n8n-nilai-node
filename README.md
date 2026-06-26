@@ -2,7 +2,7 @@
 
 This is an [n8n community node](https://docs.n8n.io/integrations/community-nodes/). It lets you add private, verifiable AI to any workflow with nothing more than an API key.
 
-It uses [Nillion nilAI](https://docs.nillion.com/build/private-llms/overview): private LLM inference that runs inside a Trusted Execution Environment (TEE), with built-in cryptographic verification of both every response and the enclave itself.
+It uses [Nillion nilAI](https://docs.nillion.com/build/private-llms/overview): a private LLM inference that runs inside a Trusted Execution Environment (TEE), with built-in cryptographic verification of both every response and the enclave itself.
 
 ## Why nilAI?
 
